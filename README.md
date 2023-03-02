@@ -1,7 +1,11 @@
 <div align="center">
 
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Subin%20Github!&fontSize=90" />	
+</div>
+
  <p>
-   Hi Welcome, i'm SuBin Lee 👋 
+   Hello Welcome!! I'm SuBin Lee 👋 
 
   #### I wanna be a developer.  
  </p>
